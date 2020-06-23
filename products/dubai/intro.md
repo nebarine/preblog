@@ -2,15 +2,14 @@
 
 정말 잊지 못 할 추억이 될 것 입니다.
 
-![](https://www.github/nebarine/preblog/products/dubai/body_01.jpg?raw=true)
-
+![](https://raw.githubusercontent.com/nebarine/preblog/master/products/dubai/body_01.jpg)
 
 
 높은 곳에서 창문을 바라보며 무슨 생각을 하는 것일까요.
 
 비가 오는 오후 향기로운 게이샤 커피를 그리워하나 보네요
 
-![](https://www.github/nebarine/preblog/products/dubai/body_02.jpg?raw=true)
+![](https://raw.githubusercontent.com/nebarine/preblog/master/products/dubai/body_02.jpg)
 
 
 
@@ -20,6 +19,6 @@
 
 거기다 증강현실 사진을 업로드 하시면 현금 20만원!
 
-[바로 가입하러 가기](www.nebari.com/blog)
+[바로 가입하러 가기](www.nebari.com)
 
 
